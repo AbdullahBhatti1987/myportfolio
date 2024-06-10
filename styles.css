@@ -110,7 +110,7 @@ body {
 
 .description h4 {
   text-transform: uppercase;
-  color: black;
+  color: whitesmoke;
   overflow: hidden;
 }
 
@@ -187,5 +187,6 @@ div.buttons button:hover {
   }
 }
 
-
-
+.top p{
+  color: white
+}
