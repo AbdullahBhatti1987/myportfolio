@@ -114,7 +114,7 @@ body {
   overflow: hidden;
 }
 
-.description p {
+.description h4 {
   color: #b0b0ba;
   padding-top: 5px;
 }
